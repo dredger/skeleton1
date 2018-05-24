@@ -56,6 +56,8 @@ For TAZ server usage
   
   to call unit functional tests `php701  ./vendor/bin/phpunit run   tests/Functional/HelloTest.php -vvv`
   
+  `php701  ./vendor/bin/phpunit run   tests/Functional/RendererTest.php -vvv`
+  
   
  
 
