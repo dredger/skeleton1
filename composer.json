@@ -1,0 +1,27 @@
+{
+    "name": "dredger/skeleton1",
+    "description": "just a skeleton app",
+    "authors": [
+        {
+            "name": "dredger",
+            "email": "andrew.dulev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "7.*",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Skeleton1\\" : "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Skeleton1\\Tests\\" : "tests/"
+        }
+    }
+}
