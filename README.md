@@ -9,6 +9,8 @@ Installation via composer
 1. [Add current repository to composer.json](https://getcomposer.org/doc/05-repositories.md#vcs)
 2. Require library: `composer require "dredger/skeleton1"`
 
+or `php701  composer.phar require  dredger/skeleton1`
+
 Usage
 -------
 
