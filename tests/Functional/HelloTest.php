@@ -1,6 +1,6 @@
 <?php
 
-namespace Ciklum\QrGenerator\Tests\Functional;
+namespace Skeleton1\QrGenerator\Tests\Functional;
 
 use Skeleton1\Hello;
 

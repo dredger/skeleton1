@@ -24,10 +24,10 @@ If you can use Dependency Container  just use it. For example for symfony2
 services:
     guzzle_client:
         class:        
-    ciklum.qr.google_renderer:
+    qr.google_renderer:
         class:        
         arguments:    
-    ciklum.qr.generator:
+    qr.generator:
         class:        
         arguments:    
 ```
